@@ -25,10 +25,10 @@ pkg install python3
 pkg install git
 ```
 ```
-git clone https://github.com/pixelPusher03/WhatsApp-Bug-lite
+git clone https://github.com/pixelPusher03/WhatsApp-bug-lite
 ```
 ```
-cd WhatsApp-Bug-lite
+cd WhatsApp-bug-lite
 ```
 ```
 chmod +x Crashw.py
