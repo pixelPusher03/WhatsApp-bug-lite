@@ -25,29 +25,25 @@ pkg install python3
 pkg install git
 ```
 ```
-git clone https://github.com/thedeveloper03/bugs
+git clone https://github.com/pixelPusher03/WhatsApp-Bug-lite
 ```
 ```
-cd bugs
+cd WhatsApp-Bug-lite
 ```
 ```
 chmod +x Crashw.py
 ```
-
-
-## Run :
-
-Go to the CrashW Directoy by type `cd CrashW` and then type
 ```
 python3 Crashw.py
 ```
 
-## Screenshots :
-![Screenshot_20231001-234741](https://github.com/thedeveloper03/bugs/assets/123274423/548ad815-1ba6-42db-869b-1932a73dc7ce)
+# DISCLAIMER ⚠️
+This tool is only created for educational purposes
 
-## Follow Me :
-<p align="left">
-  <a href="https://github.com/thedeveloper03" target="_blank"><img src="https://img.shields.io/badge/Github-thedeveloper03-silver?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/the_developer.01" target="_blank"><img src="https://img.shields.io/badge/Instagram-the_developer.01-red?style=for-the-badge&logo=instagram"></a><br/>
-  <a href="https://facebook.com/the developer 03.fb" target="_blank"><img src="https://img.shields.io/badge/Facebook-thedevelepor-blue?style=for-the-badge&logo=facebook"></a>
-</p>
+Iam not responsible for any actions took by users
+
+Iam not responsible for any DAMAGE caused to people using this script
+
+Im not responsible for any DAMAGE that you might encounter. Use At own risk.
+
+## Cyberalytics Hacklytics labs
