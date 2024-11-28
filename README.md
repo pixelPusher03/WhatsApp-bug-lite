@@ -1,4 +1,4 @@
-# CrashW
+# WhatsApp Bug Lite
 
 ## A WhatsApp Crashing Tool For Termux Users
 
