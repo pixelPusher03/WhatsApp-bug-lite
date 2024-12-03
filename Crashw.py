@@ -23,8 +23,8 @@ logo = f"""
 | |        [ `/'`\] `'_\ :  ( (`\]   | .-. |     \ \/  \/ /   
 \ `.___.'\  | |     // | |,  `'.'.   | | | |      \  /\  /    
  `.____ .' [___]    \'-;__/ [\__) ) [___]|__]       \/  \/     
-{R}█░█ ▄▀█  █▀▀ █▀█ ▄▀█ █▀ █░█ █▀▀ █▀█ {B}Coded By SM technologies offic
-{M}█▀█ █▀█  █▄▄ █▀▄ █▀█ ▄█ █▀█ ██▄ █▀▄ {B}Crash Txt by @thedeveloper03
+{R}█░█ ▄▀█  █▀▀ █▀█ ▄▀█ █▀ █░█ █▀▀ █▀█ {B}Coded By The Developer03
+{M}█▀█ █▀█  █▄▄ █▀▄ █▀█ ▄█ █▀█ ██▄ █▀▄ {B}Crash Txt by pixelPusher
 """
 os.system('clear')
 def main():
